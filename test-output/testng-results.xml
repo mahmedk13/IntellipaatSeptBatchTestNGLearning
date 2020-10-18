@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="42" started-at="2020-10-18T17:12:49Z" finished-at="2020-10-18T17:12:49Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="42" started-at="2020-10-18T17:12:49Z" finished-at="2020-10-18T17:12:49Z">
+      <class name="demo.before.DemoA">
+        <test-method status="PASS" signature="initializeTheDriver()[pri:0, instance:demo.before.DemoA@75f9eccc]" name="initializeTheDriver" is-config="true" duration-ms="11" started-at="2020-10-18T17:12:49Z" finished-at="2020-10-18T17:12:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeTheDriver -->
+        <test-method status="PASS" signature="openTheExcel()[pri:0, instance:demo.before.DemoA@75f9eccc]" name="openTheExcel" is-config="true" duration-ms="0" started-at="2020-10-18T17:12:49Z" finished-at="2020-10-18T17:12:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openTheExcel -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:demo.before.DemoA@75f9eccc]" name="beforeClass" is-config="true" duration-ms="0" started-at="2020-10-18T17:12:49Z" finished-at="2020-10-18T17:12:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="login()[pri:0, instance:demo.before.DemoA@75f9eccc]" name="login" is-config="true" duration-ms="1" started-at="2020-10-18T17:12:49Z" finished-at="2020-10-18T17:12:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="bookingFlightTicket()[pri:0, instance:demo.before.DemoA@75f9eccc]" name="bookingFlightTicket" duration-ms="7" started-at="2020-10-18T17:12:49Z" finished-at="2020-10-18T17:12:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookingFlightTicket -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:demo.before.DemoA@75f9eccc]" name="logout" is-config="true" duration-ms="0" started-at="2020-10-18T17:12:49Z" finished-at="2020-10-18T17:12:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="login()[pri:0, instance:demo.before.DemoA@75f9eccc]" name="login" is-config="true" duration-ms="0" started-at="2020-10-18T17:12:49Z" finished-at="2020-10-18T17:12:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="bookingTrainTicket()[pri:0, instance:demo.before.DemoA@75f9eccc]" name="bookingTrainTicket" duration-ms="1" started-at="2020-10-18T17:12:49Z" finished-at="2020-10-18T17:12:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookingTrainTicket -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:demo.before.DemoA@75f9eccc]" name="logout" is-config="true" duration-ms="0" started-at="2020-10-18T17:12:49Z" finished-at="2020-10-18T17:12:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:demo.before.DemoA@75f9eccc]" name="afterClass" is-config="true" duration-ms="0" started-at="2020-10-18T17:12:49Z" finished-at="2020-10-18T17:12:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="closeTheExcel()[pri:0, instance:demo.before.DemoA@75f9eccc]" name="closeTheExcel" is-config="true" duration-ms="0" started-at="2020-10-18T17:12:49Z" finished-at="2020-10-18T17:12:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeTheExcel -->
+        <test-method status="PASS" signature="closeTheDriver()[pri:0, instance:demo.before.DemoA@75f9eccc]" name="closeTheDriver" is-config="true" duration-ms="1" started-at="2020-10-18T17:12:49Z" finished-at="2020-10-18T17:12:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeTheDriver -->
+      </class> <!-- demo.before.DemoA -->
+      <class name="demo.before.DemoB">
+        <test-method status="PASS" signature="bookingCar()[pri:0, instance:demo.before.DemoB@52aa2946]" name="bookingCar" duration-ms="2" started-at="2020-10-18T17:12:49Z" finished-at="2020-10-18T17:12:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookingCar -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:demo.before.DemoB@52aa2946]" name="beforeClass" is-config="true" duration-ms="0" started-at="2020-10-18T17:12:49Z" finished-at="2020-10-18T17:12:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="bookingHotel()[pri:0, instance:demo.before.DemoB@52aa2946]" name="bookingHotel" duration-ms="2" started-at="2020-10-18T17:12:49Z" finished-at="2020-10-18T17:12:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookingHotel -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:demo.before.DemoB@52aa2946]" name="afterClass" is-config="true" duration-ms="1" started-at="2020-10-18T17:12:49Z" finished-at="2020-10-18T17:12:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- demo.before.DemoB -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
